@@ -188,28 +188,6 @@ git push -u origin <your_branch_name>
 
 ---
 
-## Screenshots of image classifications and Recognitions
-
-<p align="center">
-<kbd><img src=https://github.com/akhilaku/Image-Classifier-using-Intel-Movidius-NCS-/blob/master/images(Screenshots)/Cat%20Variety%20Classification%20and%20Recognition.png></kbd>
-  </p>
-
----
-
-<p align="center">
-<kbd><img src=https://github.com/akhilaku/Image-Classifier-using-Intel-Movidius-NCS-/blob/master/images(Screenshots)/Dog%20Variety%20Recognition.png><kbd>
-  </p>
-
----
-
-## Project done in Linux(Ubuntu) Operating System
-
-<p align="center">
-<kbd><img src=https://github.com/akhilaku/Image-Classifier-using-Intel-Movidius-NCS-/blob/master/images(Screenshots)/Image%20Recognition%20in%20Linux(ubantu).png></kbd>
-  </p>
-
----
-
 ### :warning:  Issues
 
 Always feel free to **file a new issue** with a respective title and description on the [Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/issues) repository.
@@ -233,3 +211,24 @@ If you have any great ideas which can make this project more better, you can mak
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ---
+
+## Contributors ✨
+
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/ashwini-jha-259147159/"><img src="https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/Ashwini.jpg" width="150px;" alt="https://github.com/ashwinijha6"/><br /><sub><b>Ashwini Jha</b></sub></a><br /><a href="https://github.com/ashwinijha6/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2.git" title="Code">Repo Link</a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/bhanvi-menghani/"><img src="https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/Bhanvi.jpg" width="150px;" alt="https://github.com/bhanvimenghani"/><br /><sub><b>Bhanvi Menghani</b></sub></a><br /><a href="https://github.com/bhanvimenghani/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2.git" title="Code">Repo Link</a></td>
+   
+  </tr>
+</table>
+
+[![GitHub followers](https://img.shields.io/github/followers/ashwinijha6.svg?label=Follow%20@ashwinijha6&style=social)](https://github.com/ashwinijha6/) [![GitHub followers](https://img.shields.io/github/followers/bhanvimenghani.svg?label=Follow%20@bhanvimenghani&style=social)](https://github.com/bhanvimenghani/)
+
+
+
+
+
+
+
